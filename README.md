@@ -11,4 +11,6 @@ Completely from scratch, no SimVascular dependency. Runs natively on Windows wit
 - `demo_data.py`: Synthetic data generators
 - `requirements.txt`
 
+Author: Ram Setty
+
 See individual files for usage.
